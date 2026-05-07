@@ -18,7 +18,7 @@ Technologies Used:
 
 Installation & Setup:
 1.Clone the repository
-git clone https://github.com/amishra17-cyber/student-contact-manager.git
+https://github.com/amishra17-cyber/student-contact-manager.git
 2.Open project folder
 cd student-contact-manager
 3.Install Flask
